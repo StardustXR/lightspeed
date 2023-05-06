@@ -840,9 +840,9 @@ dependencies = [
 
 [[package]]
 name = "stardust-xr-fusion"
-version = "0.39.4"
+version = "0.39.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "14706099cbfa66f5403f749811c9afeed4f2ec4203426a19b736f7777fe2ab18"
+checksum = "77530520fb2f6ff528c01fd292b5fb51a500739f49354ffc8f607bc4b9cb18f9"
 dependencies = [
  "color-eyre",
  "color-rs",
@@ -858,7 +858,6 @@ dependencies = [
  "thiserror",
  "tokio",
  "tracing",
- "xkbcommon",
 ]
 
 [[package]]
@@ -1317,13 +1316,4 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "61de7bac303dc551fe038e2b3cef0f571087a47571ea6e79a87692ac99b99699"
 dependencies = [
  "memchr",
-]
-
-[[package]]
-name = "xkbcommon"
-version = "0.5.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "acbee136714379ab22da0280207fdb7f47e0bb940adea97731b65598b8c7a92e"
-dependencies = [
- "libc",
 ]
