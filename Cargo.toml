@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 glam = "0.24.0"
-stardust-xr-fusion = "0.39.3"
+stardust-xr-fusion = "0.39.4"
 tokio = { version = "1.28.0", features = ["rt"] }

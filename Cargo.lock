@@ -840,9 +840,9 @@ dependencies = [
 
 [[package]]
 name = "stardust-xr-fusion"
-version = "0.39.3"
+version = "0.39.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7ca062d2d6dfc7fc01b132df555c1ec721109ce12e0d5543b05c95e77e31b91a"
+checksum = "14706099cbfa66f5403f749811c9afeed4f2ec4203426a19b736f7777fe2ab18"
 dependencies = [
  "color-eyre",
  "color-rs",
